@@ -1,6 +1,7 @@
-flask
-flask-cors
 pandas
 scikit-learn==1.2.2
+numpy==1.24.3
 joblib
+flask
+flask-cors
 gunicorn
